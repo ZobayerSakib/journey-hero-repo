@@ -3,14 +3,15 @@ body{
     padding:20px; text-align: center;border-radius: 20px;
 }
 #titlecar{
+    font-family: cursive;
     background-color: chartreuse;margin-bottom: 13px;border-radius: 10px;
-    color:red;margin:0 auto;text-align:center;margin-top: 15px;
-    box-shadow: 3px 4px 5px white;
+    color:rgba(14, 6, 6, 0.945);margin:0 auto;text-align:center;margin-top: 15px;
+    box-shadow:3px 4px 5px 3px white;width:100%;border-bottom: 2px solid orange;
 }
 
 #pic{
     opacity:0.5;
-
+    transition: all 1s;
 }
 #pic:hover{
     transition:all 2s;
