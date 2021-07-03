@@ -2,6 +2,9 @@ body{
     background-color: black;color:blanchedalmond;
     padding:20px; text-align: center;border-radius: 20px;
 }
+#para{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 #titlecar{
     font-family: cursive;
     background-color: chartreuse;margin-bottom: 13px;border-radius: 10px;
