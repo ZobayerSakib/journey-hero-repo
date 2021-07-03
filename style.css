@@ -3,5 +3,17 @@ body{
     padding:20px; text-align: center;border-radius: 20px;
 }
 #titlecar{
-    background-color: chartreuse;color:red;width:500px;margin:0 auto;text-align:center;
+    background-color: chartreuse;margin-bottom: 13px;border-radius: 10px;
+    color:red;margin:0 auto;text-align:center;margin-top: 15px;
+    box-shadow: 3px 4px 5px white;
+}
+
+#pic{
+    opacity:0.5;
+
+}
+#pic:hover{
+    transition:all 2s;
+    opacity:1;
+    transform: rotateX(360 deg);
 }
