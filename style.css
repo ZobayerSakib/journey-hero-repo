@@ -5,8 +5,8 @@ body{
 #para{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-span #maumo{
-    color: chartreuse;font-family: fantasy;
+#maumo{
+    font-family: cursive;color:chartreuse;
 }
 #titlecar{
     font-family: cursive;font-size: 13px;
